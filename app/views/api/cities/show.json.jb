@@ -1,0 +1,8 @@
+{
+  name: @city.name,
+  population: @city.population,
+  state_or_province: @city.state_or_province,
+  country: @city.country,
+  description: @city.description,
+  image_url: @city.image_url
+}
